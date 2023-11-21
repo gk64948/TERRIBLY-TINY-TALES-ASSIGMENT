@@ -2,11 +2,27 @@
 
 # Terribly Tiny Tales Profile App:-
 
-This project is a ReactJS based frontend application developed for the Terribly Tiny Tales assignment.
+This project is a ReactJS based frontend application developed for the Terribly Tiny Tales assignment. 
+Here (https://gk64948.github.io/TERRIBLY-TINY-TALES-ASSIGMENT/)
 The assignment involves creating a profile screen similar to this sample screenshot from mobile view.
 The profile data is hardcoded in a local JSON, and no backend is required. The goal is to ensure consistent rendering across different mobile devices.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Installation:-
+
+Clone the repository:- 
+https://gk64948.github.io/TERRIBLY-TINY-TALES-ASSIGMENT/
+
+Navigate to the project directory:
+cd Teny
+
+Install dependencies:
+npm install
+
+Start With :
+npm start
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Libraries and Plugins:-
 The project uses the following libraries and plugins:-
@@ -19,7 +35,7 @@ React Scripts: A set of scripts and configuration used by Create React App.
 # Responsive Design:-
 The application is designed to be responsive, ensuring consistent rendering across different mobile devices. 
 You can test the responsiveness using Chrome DevTools in mobile view or on actual physical devices.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Project Structure:-
 
